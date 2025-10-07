@@ -13,6 +13,9 @@ I maintain a few repositories related to astrophysics research in $N$-body simul
 Outside of these than these scripts, I also enjoy developing random side projects that I find interesting, such as:
 
 - [visualizations_cpp](https://github.com/elvismello/visualizations_cpp): *(In progress)* framework for quickly prototyping GPU kernels. Includes an out-of-the-box direct-sum gravity simulation of $\sim 10^{4.5}$ particles that runs in real time.
+
+  <img src="assets/visualization_cpp.gif" alt="gpu simulation" width="300" align="right" style="margin-left:15px; margin-bottom:15px">
+  
 - [BurguersSolution](https://github.com/elvismello/BurgersSolution): Translation to C++ from Fortran of a differential equation solver from Eleuterio F. Toro's book for Numerical Methods.
 - [simpleBilliards](https://github.com/elvismello/simpleBilliards): A simple 2d simulation of colliding circles.
   
