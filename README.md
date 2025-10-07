@@ -1,5 +1,7 @@
 Hi there, I’m [Elvis Mello-Terencio](https://elvismello.github.io/) 👋
 
+<img src="assets/low_10.gif" alt="gpu simulation" width="300" align="right" style="margin-left:15px; margin-bottom:15px">
+
 I'm an astrophysics MSc graduate currently applying for PhD positions. My work has focused on galaxy evolution, exploring how jellyfish galaxies are influenced by their environments. I have a profound interest in data analysis and numerical simulations.
 
 I maintain a few repositories related to astrophysics research in $N$-body simulations:
@@ -9,13 +11,11 @@ I maintain a few repositories related to astrophysics research in $N$-body simul
 - [snapshotJoiner](https://github.com/elvismello/snapshotJoiner): Merges initial conditions either in Gadget2 or HDF5 formats.
 - [snapshotJoinerMk2](https://github.com/elvismello/snapshotJoinerMk2): An upgraded version of [snapshotJoiner](https://github.com/elvismello/snapshotJoiner) that works exclusively with HDF5. This version provides improved merging logic.
 
-
 Outside of these than these scripts, I also enjoy developing random side projects that I find interesting, such as:
-
-- [visualizations_cpp](https://github.com/elvismello/visualizations_cpp): *(In progress)* framework for quickly prototyping GPU kernels. Includes an out-of-the-box direct-sum gravity simulation of $\sim 10^{4.5}$ particles that runs in real time.
 
   <img src="assets/visualization_cpp.gif" alt="gpu simulation" width="300" align="right" style="margin-left:15px; margin-bottom:15px">
   
+- [visualizations_cpp](https://github.com/elvismello/visualizations_cpp): *(In progress)* framework for quickly prototyping GPU kernels. Includes an out-of-the-box direct-sum gravity simulation of $\sim 10^{4.5}$ particles that runs in real time.
 - [BurguersSolution](https://github.com/elvismello/BurgersSolution): Translation to C++ from Fortran of a differential equation solver from Eleuterio F. Toro's book for Numerical Methods.
 - [simpleBilliards](https://github.com/elvismello/simpleBilliards): A simple 2d simulation of colliding circles.
   
