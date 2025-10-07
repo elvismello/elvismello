@@ -1,6 +1,6 @@
-<img src="assets/74144012" alt="stellar disc" width="300" align="right" style="margin-left:15px; margin-bottom:15px">
-Hi there, I’m [Elvis Mello-Terencio](https://elvismello.github.io/) 👋
+<img src="assets/74144012.png" alt="stellar disc" width="300" align="right" style="margin-left:15px; margin-bottom:15px">
 
+Hi there, I’m [Elvis Mello-Terencio](https://elvismello.github.io/) 👋
 
 I'm an astrophysics MSc graduate currently applying for PhD positions. My work has focused on galaxy evolution, exploring how jellyfish galaxies are influenced by their environments. I have a profound interest in data analysis and numerical simulations.
 
