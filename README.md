@@ -11,7 +11,7 @@ I maintain a few repositories related to astrophysics research in $N$-body simul
 - [snapshotJoiner](https://github.com/elvismello/snapshotJoiner): Merges initial conditions either in Gadget2 or HDF5 formats.
 - [snapshotJoinerMk2](https://github.com/elvismello/snapshotJoinerMk2): An upgraded version of [snapshotJoiner](https://github.com/elvismello/snapshotJoiner) that works exclusively with HDF5. This version provides improved merging logic.
 
-Outside of these than these scripts, I also enjoy developing side projects that I find interesting, such as:
+Outside of these scripts, I also enjoy developing side projects that I find interesting, such as:
 
   <img src="assets/visualization_cpp.gif" alt="gpu simulation" width="300" align="right" style="margin-left:15px; margin-bottom:15px">
   
