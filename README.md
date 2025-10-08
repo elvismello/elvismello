@@ -12,6 +12,7 @@ I maintain a few repositories related to astrophysics research in $N$-body simul
 - [snapshotJoinerMk2](https://github.com/elvismello/snapshotJoinerMk2): An upgraded version of [snapshotJoiner](https://github.com/elvismello/snapshotJoiner) that works exclusively with HDF5. This version provides improved merging logic.
 
 <img src="assets/visualization_cpp.gif" alt="gpu simulation" width="300" align="right" style="margin-left:15px; margin-bottom:15px">
+
 Outside of these scripts, I also enjoy developing side projects that I find interesting, such as:
 
   
