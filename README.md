@@ -2,7 +2,7 @@
 
 Hi there, I’m [Elvis Mello-Terencio](https://elvismello.github.io/) 👋
 
-I'm an astrophysics MSc graduate currently applying for PhD positions. My work has focused on galaxy evolution, exploring how jellyfish galaxies are influenced by their environments. I have a profound interest in data analysis and numerical simulations.
+I'm an astrophysics PhD Student at Observatório Nacional in Rio de Janeiro, Brazil. My work has focused until recently on galaxy evolution, exploring how jellyfish galaxies are influenced by their environments. I have a profound interest in data analysis and numerical simulations.
 
 I maintain a few repositories related to astrophysics research in $N$-body simulations:
 
